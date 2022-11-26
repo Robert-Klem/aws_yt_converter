@@ -1,0 +1,4 @@
+aws-cdk-lib
+pytube
+boto3
+yawsso
